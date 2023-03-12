@@ -2,10 +2,10 @@
   
 
   <a href="https://github.com/CodenameSushi">
-  <img align="center" height="400" width="500" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CodenameSushi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CodenameSushi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/CodenameSushi">
-  <img align="center" height="400" width="500" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CodenameSushi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="center" height="200"  src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CodenameSushi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 
 
