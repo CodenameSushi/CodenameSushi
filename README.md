@@ -1,13 +1,14 @@
-<div style="display: flex">
+
 ### Welcome to my profile! I'm Fernando Henrique, a Brazilan/Spanish Full Stack Developer!
   
-
+<div style="display: flex; flex-direction: row;">
   <a href="https://github.com/CodenameSushi">
   <img align="center" height="200" width:"500" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CodenameSushi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/CodenameSushi">
   <img align="center" height="200" width:"500"  src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CodenameSushi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
+</div>
  
 
 
@@ -27,4 +28,4 @@
  	<a href="https://www.twitch.tv/fhsushi" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:fernandohcgomez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandohenriquefilho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
