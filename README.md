@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex">
 ### Welcome to my profile! I'm Fernando Henrique, a Brazilan/Spanish Full Stack Developer!
   
 
