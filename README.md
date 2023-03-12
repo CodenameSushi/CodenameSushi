@@ -1,6 +1,6 @@
 ### Welcome to my profile! I'm Fernando Henrique, a Brazilan/Spanish Full Stack Developer!
   
-  <div style=" display: inline-block">
+  <div style=" display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/CodenameSushi">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CodenameSushi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
