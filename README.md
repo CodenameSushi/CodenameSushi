@@ -7,7 +7,7 @@
   <a href="https://github.com/CodenameSushi">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CodenameSushi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
-  <div>
+  </div>
 
   
 <div style="display: inline_block"><br>
