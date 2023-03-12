@@ -1,6 +1,11 @@
 <h2 align="center">
-Welcome to my profile! I'm Fernando Henrique, a Brazilan/Spanish Full Stack Developer!
+Hello friend! I'm Fernando Henrique!
 </h2>
+
+<p align="center">  
+  I'm a Brazilian/Spanish Jr. Full Stack Developer, currently based in Rio de Janeiro, Brazil!
+  </p>
+  
   
 <p align="center">
   <a href="https://github.com/CodenameSushi">
