@@ -2,11 +2,11 @@
 ### Welcome to my profile! I'm Fernando Henrique, a Brazilan/Spanish Full Stack Developer!
   
 <div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/CodenameSushi">
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CodenameSushi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <a align="center" href="https://github.com/CodenameSushi">
+  <img width="400" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=CodenameSushi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/CodenameSushi">
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CodenameSushi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a align="center" href="https://github.com/CodenameSushi">
+  <img width="400" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=CodenameSushi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </div>
  
